@@ -1,0 +1,23 @@
+ul{
+    
+	color:blueviolet;
+	font-weight:500;
+	font-family:'Helvetica';
+	font-size:30px;
+}
+img{
+    width: 100px; height: 100px;
+}
+li{
+    color:blue;
+	font-weight:500;
+	font-family:'Helvetica';
+	font-size:20px;
+    
+}
+p{
+    color:black;
+	font-weight:500;
+	font-family:'Helvetica';
+	font-size:20px;
+}
